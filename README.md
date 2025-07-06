@@ -38,6 +38,6 @@ brew install node
 1. Open the `audio-loop-slicer-macos` folder
 2. **Double-click** on `Launch Audio Loop Slicer.command`
 3. If prompted about security, click "Open"
-4. If you get a permission issue, open a terminal window in the application folder and enter: chmod +x "/path/to/Launch Audio Loop Slicer.command"
+4. If you get a permission issue, open a terminal window in the application folder and enter: `chmod +x "/path/to/Launch Audio Loop Slicer.command"`
 5. The terminal will open and install dependencies automatically
 6. Your browser will open with the application at `http://localhost:5173`
